@@ -22,8 +22,7 @@ Price per Zip Code
 
 ## Results
 I selected Option 2 and used the Airbnb dataset. The visualizations provided insights into how room types, neighborhoods, and property characteristics influence prices. and here is the link to the dashboard
-https://public.tableau.com/app/profile/lula.kifle/viz/AirBnB_tableu_project_Final/Dashboard2?publish=yes
-
+https://public.tableau.com/app/profile/lula.kifle/viz/AirBnB_tableu_project_Final/Dashboard6
 ## Challenges 
 The main challenges were handling missing data and ensuring the visualizations were clear and accurate.
 
